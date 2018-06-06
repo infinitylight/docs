@@ -10,7 +10,7 @@ helpviewer_keywords:
 ms.assetid: 6da6e152-5b58-4448-8f3f-470dd0617ecd
 ---
 # return (C# Reference)
-The `return` statement terminates execution of the method in which it appears and returns control to the calling method. It can also return an optional value. If the method is a `void` type, the `return` statement can be omitted.  
+The `return` statement terminates execution of the method in which it appears and returns control to the statement that calling method. It can also return an optional value. If the method is a `void` type, the `return` statement can be omitted.  
   
  If the return statement is inside a `try` block, the `finally` block, if one exists, will be executed before control returns to the calling method.  
   
